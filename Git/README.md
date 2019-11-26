@@ -1,4 +1,5 @@
 - [Git](#git)
+  - [Git tutorials](#git-tutorials)
   - [Branches](#branches)
 - [Markdown](#markdown)
   - [ReadMe](#readme)
@@ -9,9 +10,12 @@
 
 
 # Git
+## Git tutorials
 Git command examples or other useful stuff
 <details>
   <summary>Click to expand</summary>
+
+  [git add doesn't work on one folder](https://stackoverflow.com/questions/39547636/git-add-doesnt-work-on-one-folder)
 
   [Terminal Cheat Sheet](https://gist.github.com/cferdinandi/ef665330286fd5d7127d)
 
